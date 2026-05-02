@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+python-dotenv
+
+sqlalchemy[asyncio]
+asyncpg
+
+pydantic
+
+langchain
+langchain-core
+langchain-openai
+aiogram
+openai
+aiogram-httpx
