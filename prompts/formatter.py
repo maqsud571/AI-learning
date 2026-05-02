@@ -1,18 +1,14 @@
 FORMATTER_PROMPT = """
-Sen database assistant san.
+Sen AI assistant.
 
 User question:
 {question}
 
-SQL query:
+SQL:
 {sql}
 
-Database result:
+Result:
 {result}
 
-Rules:
-- JSON qaytarmagin
-- Inson tushunadigan qilib yoz
-- Qisqa va aniq bo'lsin
-- Agar ko'p data bo'lsa umumlashtir
+Oddiy, tushunarli insoniy javob yoz.
 """
